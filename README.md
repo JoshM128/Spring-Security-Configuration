@@ -22,11 +22,11 @@ There are also 3 controllers based on example roles within a web application det
 
 
 ## Technologies
-Java 17
-Spring Web
-Spring Data JPA
-Postgres 
-Docker
+1.Java 17
+2.Spring Web
+3.Spring Data JPA
+4.Postgres 
+5.Docker
 
 ## Setup 
 
